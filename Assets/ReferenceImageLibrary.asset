@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5577906134251768861
+  m_GuidHigh: 4377174264897728146
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4816177663802347070
+      m_GuidHigh: 17982823717777655443
+    m_SerializedTextureGuid:
+      m_GuidLow: 6382834259330515900
+      m_GuidHigh: 5372345548737970472
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: colobus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5311702675217931232
+      m_GuidHigh: 4756947981964727451
+    m_SerializedTextureGuid:
+      m_GuidLow: 5653348811194241291
+      m_GuidHigh: 1881239933954126890
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: muskrat
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5300669797555117782
+      m_GuidHigh: 6585252528278826889
+    m_SerializedTextureGuid:
+      m_GuidLow: 11503578884451530395
+      m_GuidHigh: 4547091780601745497
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: pudu
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5144519005157122852
+      m_GuidHigh: 3020318505205653144
+    m_SerializedTextureGuid:
+      m_GuidLow: 5432572995268789322
+      m_GuidHigh: 6520344766724431226
+    m_Size: {x: 0.062, y: 0.08567637}
+    m_SpecifySize: 1
+    m_Name: squid
+    m_Texture: {fileID: 0}
